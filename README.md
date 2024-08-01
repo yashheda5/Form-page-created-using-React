@@ -16,4 +16,6 @@ REACT    : [Documentation](https://react.dev/learn/installation)
 
 
                   
-
+node_modules/
+*.log
+.DS_Store
